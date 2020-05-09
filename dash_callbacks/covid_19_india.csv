@@ -1,0 +1,960 @@
+Date,State/UnionTerritory,Cured,Deaths,Confirmed
+30/01/20,Kerala,0,0,1
+31/01/20,Kerala,0,0,1
+01/02/20,Kerala,0,0,2
+02/02/20,Kerala,0,0,3
+03/02/20,Kerala,0,0,3
+04/02/20,Kerala,0,0,3
+05/02/20,Kerala,0,0,3
+06/02/20,Kerala,0,0,3
+07/02/20,Kerala,0,0,3
+08/02/20,Kerala,0,0,3
+09/02/20,Kerala,0,0,3
+10/02/20,Kerala,0,0,3
+11/02/20,Kerala,0,0,3
+12/02/20,Kerala,0,0,3
+13/02/20,Kerala,0,0,3
+14/02/20,Kerala,0,0,3
+15/02/20,Kerala,0,0,3
+16/02/20,Kerala,0,0,3
+17/02/20,Kerala,0,0,3
+18/02/20,Kerala,0,0,3
+19/02/20,Kerala,0,0,3
+20/02/20,Kerala,0,0,3
+21/02/20,Kerala,0,0,3
+22/02/20,Kerala,0,0,3
+23/02/20,Kerala,0,0,3
+24/02/20,Kerala,0,0,3
+25/02/20,Kerala,0,0,3
+26/02/20,Kerala,0,0,3
+27/02/20,Kerala,0,0,3
+28/02/20,Kerala,0,0,3
+29/02/20,Kerala,0,0,3
+01/03/20,Kerala,0,0,3
+02/03/20,Telengana,0,0,1
+02/03/20,Kerala,0,0,3
+02/03/20,Delhi,0,0,1
+03/03/20,Telengana,0,0,1
+03/03/20,Rajasthan,0,0,1
+03/03/20,Kerala,3,0,3
+03/03/20,Delhi,0,0,1
+04/03/20,Uttar Pradesh,0,0,6
+04/03/20,Kerala,3,0,3
+04/03/20,Haryana,0,0,2
+04/03/20,Delhi,0,0,1
+04/03/20,Telengana,0,0,1
+04/03/20,Rajasthan,0,0,15
+05/03/20,Delhi,0,0,2
+05/03/20,Haryana,0,0,2
+05/03/20,Kerala,3,0,3
+05/03/20,Rajasthan,0,0,15
+05/03/20,Telengana,0,0,1
+05/03/20,Uttar Pradesh,0,0,7
+06/03/20,Delhi,0,0,3
+06/03/20,Haryana,0,0,2
+06/03/20,Kerala,3,0,3
+06/03/20,Rajasthan,0,0,15
+06/03/20,Uttar Pradesh,0,0,7
+06/03/20,Telengana,0,0,1
+07/03/20,Kerala,3,0,3
+07/03/20,Uttar Pradesh,0,0,7
+07/03/20,Ladakh,0,0,2
+07/03/20,Telengana,0,0,1
+07/03/20,Tamil Nadu,0,0,1
+07/03/20,Delhi,0,0,3
+07/03/20,Haryana,0,0,2
+07/03/20,Rajasthan,0,0,15
+08/03/20,Ladakh,0,0,2
+08/03/20,Telengana,0,0,1
+08/03/20,Tamil Nadu,0,0,1
+08/03/20,Rajasthan,0,0,15
+08/03/20,Kerala,3,0,8
+08/03/20,Haryana,0,0,2
+08/03/20,Delhi,0,0,3
+08/03/20,Uttar Pradesh,0,0,7
+09/03/20,Ladakh,0,0,2
+09/03/20,Karnataka,0,0,1
+09/03/20,Kerala,3,0,9
+09/03/20,Maharashtra,0,0,2
+09/03/20,Punjab,0,0,1
+09/03/20,Rajasthan,0,0,15
+09/03/20,Tamil Nadu,0,0,1
+09/03/20,Telengana,0,0,1
+09/03/20,Jammu and Kashmir,0,0,1
+09/03/20,Uttar Pradesh,0,0,7
+09/03/20,Haryana,0,0,2
+09/03/20,Delhi,0,0,4
+10/03/20,Uttar Pradesh,0,0,7
+10/03/20,Ladakh,0,0,2
+10/03/20,Delhi,0,0,4
+10/03/20,Haryana,0,0,2
+10/03/20,Karnataka,0,0,4
+10/03/20,Kerala,3,0,15
+10/03/20,Maharashtra,0,0,5
+10/03/20,Punjab,0,0,1
+10/03/20,Rajasthan,0,0,15
+10/03/20,Tamil Nadu,0,0,1
+10/03/20,Telengana,0,0,1
+10/03/20,Jammu and Kashmir,0,0,1
+11/03/20,Maharashtra,0,0,2
+11/03/20,Delhi,0,0,5
+11/03/20,Haryana,0,0,14
+11/03/20,Kerala,3,0,17
+11/03/20,Rajasthan,0,0,3
+11/03/20,Telengana,0,0,1
+11/03/20,Uttar Pradesh,0,0,9
+11/03/20,Ladakh,0,0,2
+11/03/20,Tamil Nadu,0,0,1
+11/03/20,Jammu and Kashmir,0,0,1
+11/03/20,Punjab,0,0,1
+11/03/20,Karnataka,0,0,4
+12/03/20,Delhi,0,0,6
+12/03/20,Haryana,0,0,14
+12/03/20,Kerala,3,0,17
+12/03/20,Rajasthan,0,0,3
+12/03/20,Telengana,0,0,1
+12/03/20,Uttar Pradesh,0,0,11
+12/03/20,Ladakh,0,0,3
+12/03/20,Tamil Nadu,0,0,1
+12/03/20,Jammu and Kashmir,0,0,1
+12/03/20,Punjab,0,0,1
+12/03/20,Karnataka,0,0,4
+12/03/20,Maharashtra,0,0,11
+12/03/20,Andhra Pradesh,0,0,1
+13/03/20,Delhi,0,0,6
+13/03/20,Haryana,0,0,14
+13/03/20,Kerala,3,0,19
+13/03/20,Rajasthan,0,0,3
+13/03/20,Telengana,0,0,1
+13/03/20,Uttar Pradesh,0,0,11
+13/03/20,Ladakh,0,0,3
+13/03/20,Tamil Nadu,0,0,1
+13/03/20,Jammu and Kashmir,0,0,1
+13/03/20,Punjab,0,0,1
+13/03/20,Karnataka,0,1,6
+13/03/20,Maharashtra,0,0,14
+13/03/20,Andhra Pradesh,0,0,1
+14/03/20,Delhi,1,1,7
+14/03/20,Haryana,0,0,14
+14/03/20,Kerala,3,0,19
+14/03/20,Rajasthan,1,0,3
+14/03/20,Telengana,0,0,1
+14/03/20,Uttar Pradesh,5,0,12
+14/03/20,Ladakh,0,0,3
+14/03/20,Tamil Nadu,0,0,1
+14/03/20,Jammu and Kashmir,0,0,2
+14/03/20,Punjab,0,0,1
+14/03/20,Karnataka,0,1,6
+14/03/20,Maharashtra,0,0,14
+14/03/20,Andhra Pradesh,0,0,1
+15/03/20,Andhra Pradesh,0,0,1
+15/03/20,Delhi,2,1,7
+15/03/20,Haryana,0,0,14
+15/03/20,Karnataka,0,1,6
+15/03/20,Kerala,3,0,22
+15/03/20,Maharashtra,0,0,32
+15/03/20,Punjab,0,0,1
+15/03/20,Rajasthan,3,0,4
+15/03/20,Tamil Nadu,0,0,1
+15/03/20,Telengana,1,0,3
+15/03/20,Jammu and Kashmir,0,0,2
+15/03/20,Ladakh,0,0,3
+15/03/20,Uttar Pradesh,4,0,13
+15/03/20,Uttarakhand,0,0,1
+16/03/20,Andhra Pradesh,0,0,1
+16/03/20,Delhi,2,1,7
+16/03/20,Haryana,0,0,14
+16/03/20,Karnataka,0,1,6
+16/03/20,Kerala,3,0,23
+16/03/20,Maharashtra,0,0,32
+16/03/20,Odisha,0,0,1
+16/03/20,Punjab,0,0,1
+16/03/20,Rajasthan,3,0,4
+16/03/20,Tamil Nadu,0,0,1
+16/03/20,Telengana,1,0,3
+16/03/20,Jammu and Kashmir,0,0,3
+16/03/20,Ladakh,0,0,4
+16/03/20,Uttar Pradesh,4,0,13
+16/03/20,Uttarakhand,0,0,1
+17/03/20,Andhra Pradesh,0,0,1
+17/03/20,Delhi,2,1,8
+17/03/20,Haryana,0,0,15
+17/03/20,Karnataka,0,1,11
+17/03/20,Kerala,3,0,26
+17/03/20,Maharashtra,0,1,39
+17/03/20,Odisha,0,0,1
+17/03/20,Punjab,0,0,1
+17/03/20,Rajasthan,3,0,4
+17/03/20,Tamil Nadu,0,0,1
+17/03/20,Telengana,1,0,5
+17/03/20,Jammu and Kashmir,0,0,3
+17/03/20,Ladakh,0,0,6
+17/03/20,Uttar Pradesh,5,0,15
+17/03/20,Uttarakhand,0,0,1
+18/03/20,Andhra Pradesh,0,0,1
+18/03/20,Delhi,2,1,10
+18/03/20,Haryana,0,0,17
+18/03/20,Karnataka,0,1,11
+18/03/20,Kerala,3,0,27
+18/03/20,Maharashtra,0,1,42
+18/03/20,Odisha,0,0,1
+18/03/20,Puducherry,0,0,1
+18/03/20,Punjab,0,0,1
+18/03/20,Rajasthan,3,0,4
+18/03/20,Tamil Nadu,0,0,1
+18/03/20,Telengana,1,0,6
+18/03/20,Jammu and Kashmir,0,0,3
+18/03/20,Ladakh,0,0,8
+18/03/20,Uttar Pradesh,5,0,16
+18/03/20,Uttarakhand,0,0,1
+18/03/20,West Bengal,0,0,1
+19/03/20,Andhra Pradesh,0,0,2
+19/03/20,Chhattisgarh,0,0,1
+19/03/20,Delhi,3,1,12
+19/03/20,Haryana,0,0,17
+19/03/20,Karnataka,0,1,14
+19/03/20,Kerala,3,0,27
+19/03/20,Maharashtra,0,1,47
+19/03/20,Odisha,0,0,1
+19/03/20,Puducherry,0,0,1
+19/03/20,Punjab,0,1,2
+19/03/20,Rajasthan,3,0,7
+19/03/20,Tamil Nadu,1,0,2
+19/03/20,Telengana,1,0,6
+19/03/20,Chandigarh,0,0,1
+19/03/20,Jammu and Kashmir,0,0,4
+19/03/20,Ladakh,0,0,8
+19/03/20,Uttar Pradesh,9,0,19
+19/03/20,Uttarakhand,0,0,1
+19/03/20,West Bengal,0,0,1
+20/03/20,Andhra Pradesh,0,0,3
+20/03/20,Chhattisgarh,0,0,1
+20/03/20,Delhi,5,1,17
+20/03/20,Gujarat,0,0,5
+20/03/20,Haryana,0,0,17
+20/03/20,Karnataka,1,1,15
+20/03/20,Kerala,3,0,28
+20/03/20,Maharashtra,0,1,52
+20/03/20,Odisha,0,0,2
+20/03/20,Puducherry,0,0,1
+20/03/20,Punjab,0,1,2
+20/03/20,Rajasthan,3,0,17
+20/03/20,Tamil Nadu,1,0,3
+20/03/20,Telengana,1,0,17
+20/03/20,Chandigarh,0,0,1
+20/03/20,Jammu and Kashmir,0,0,4
+20/03/20,Ladakh,0,0,10
+20/03/20,Uttar Pradesh,9,0,23
+20/03/20,Uttarakhand,0,0,3
+20/03/20,West Bengal,0,0,2
+21/03/20,Andhra Pradesh,0,0,3
+21/03/20,Chhattisgarh,0,0,1
+21/03/20,Delhi,5,1,26
+21/03/20,Gujarat,0,0,7
+21/03/20,Haryana,0,0,17
+21/03/20,Himachal Pradesh,0,0,2
+21/03/20,Karnataka,1,1,15
+21/03/20,Kerala,3,0,40
+21/03/20,Madhya Pradesh,0,0,4
+21/03/20,Maharashtra,0,1,63
+21/03/20,Odisha,0,0,2
+21/03/20,Puducherry,0,0,1
+21/03/20,Punjab,0,1,13
+21/03/20,Rajasthan,3,0,17
+21/03/20,Tamil Nadu,1,0,3
+21/03/20,Telengana,1,0,21
+21/03/20,Chandigarh,0,0,1
+21/03/20,Jammu and Kashmir,0,0,4
+21/03/20,Ladakh,0,0,13
+21/03/20,Uttar Pradesh,9,0,24
+21/03/20,Uttarakhand,0,0,3
+21/03/20,West Bengal,0,0,3
+22/03/20,Andhra Pradesh,0,0,5
+22/03/20,Bihar,0,1,2
+22/03/20,Chhattisgarh,0,0,1
+22/03/20,Delhi,5,1,29
+22/03/20,Gujarat,0,1,18
+22/03/20,Haryana,0,0,21
+22/03/20,Himachal Pradesh,0,0,2
+22/03/20,Karnataka,2,1,26
+22/03/20,Kerala,3,0,52
+22/03/20,Madhya Pradesh,0,0,4
+22/03/20,Maharashtra,0,2,67
+22/03/20,Odisha,0,0,2
+22/03/20,Puducherry,0,0,1
+22/03/20,Punjab,0,1,21
+22/03/20,Rajasthan,3,0,24
+22/03/20,Tamil Nadu,1,0,7
+22/03/20,Telengana,1,0,22
+22/03/20,Chandigarh,0,0,5
+22/03/20,Jammu and Kashmir,0,0,4
+22/03/20,Ladakh,0,0,13
+22/03/20,Uttar Pradesh,9,0,27
+22/03/20,Uttarakhand,0,0,3
+22/03/20,West Bengal,0,0,4
+23/03/20,Andhra Pradesh,0,0,7
+23/03/20,Bihar,0,1,2
+23/03/20,Chhattisgarh,0,0,1
+23/03/20,Delhi,5,1,29
+23/03/20,Gujarat,0,1,29
+23/03/20,Haryana,0,0,26
+23/03/20,Himachal Pradesh,0,0,2
+23/03/20,Karnataka,2,1,33
+23/03/20,Kerala,3,0,67
+23/03/20,Madhya Pradesh,0,0,6
+23/03/20,Maharashtra,0,2,74
+23/03/20,Odisha,0,0,2
+23/03/20,Puducherry,0,0,1
+23/03/20,Punjab,0,1,21
+23/03/20,Rajasthan,3,0,28
+23/03/20,Tamil Nadu,1,0,9
+23/03/20,Telengana,1,0,32
+23/03/20,Chandigarh,0,0,6
+23/03/20,Jammu and Kashmir,0,0,4
+23/03/20,Ladakh,0,0,13
+23/03/20,Uttar Pradesh,9,0,31
+23/03/20,Uttarakhand,0,0,3
+23/03/20,West Bengal,0,0,7
+24/03/20,Andhra Pradesh,0,0,8
+24/03/20,Bihar,0,1,3
+24/03/20,Chhattisgarh,0,0,1
+24/03/20,Delhi,6,1,30
+24/03/20,Gujarat,0,1,33
+24/03/20,Haryana,11,0,28
+24/03/20,Himachal Pradesh,0,1,3
+24/03/20,Karnataka,3,1,37
+24/03/20,Kerala,4,0,95
+24/03/20,Madhya Pradesh,0,0,7
+24/03/20,Maharashtra,0,2,89
+24/03/20,Manipur,0,0,1
+24/03/20,Odisha,0,0,2
+24/03/20,Puducherry,0,0,1
+24/03/20,Punjab,0,1,29
+24/03/20,Rajasthan,3,0,32
+24/03/20,Tamil Nadu,1,0,15
+24/03/20,Telengana,1,0,35
+24/03/20,Chandigarh,0,0,7
+24/03/20,Jammu and Kashmir,0,0,4
+24/03/20,Ladakh,0,0,13
+24/03/20,Uttar Pradesh,11,0,33
+24/03/20,Uttarakhand,0,0,4
+24/03/20,West Bengal,0,1,9
+25/03/20,Andhra Pradesh,1,0,9
+25/03/20,Bihar,0,1,4
+25/03/20,Chhattisgarh,0,0,1
+25/03/20,Delhi,6,1,31
+25/03/20,Gujarat,0,1,38
+25/03/20,Haryana,11,0,28
+25/03/20,Himachal Pradesh,0,1,3
+25/03/20,Karnataka,3,1,41
+25/03/20,Kerala,4,0,109
+25/03/20,Madhya Pradesh,0,0,14
+25/03/20,Maharashtra,1,3,128
+25/03/20,Manipur,0,0,1
+25/03/20,Mizoram,0,0,1
+25/03/20,Odisha,0,0,2
+25/03/20,Puducherry,0,0,1
+25/03/20,Punjab,0,1,29
+25/03/20,Rajasthan,3,0,36
+25/03/20,Tamil Nadu,1,0,18
+25/03/20,Telengana,1,0,35
+25/03/20,Chandigarh,0,0,7
+25/03/20,Jammu and Kashmir,1,0,7
+25/03/20,Ladakh,0,0,13
+25/03/20,Uttar Pradesh,11,0,37
+25/03/20,Uttarakhand,0,0,4
+25/03/20,West Bengal,0,1,9
+26/03/20,Andaman and Nicobar Islands,0,0,1
+26/03/20,Andhra Pradesh,1,0,11
+26/03/20,Bihar,0,1,6
+26/03/20,Chandigarh,0,0,7
+26/03/20,Chhattisgarh,0,0,6
+26/03/20,Delhi,6,1,36
+26/03/20,Goa,0,0,3
+26/03/20,Gujarat,0,3,43
+26/03/20,Haryana,11,0,30
+26/03/20,Himachal Pradesh,0,1,3
+26/03/20,Jammu and Kashmir,1,0,13
+26/03/20,Karnataka,3,2,55
+26/03/20,Kerala,6,0,118
+26/03/20,Ladakh,0,0,13
+26/03/20,Madhya Pradesh,0,1,20
+26/03/20,Maharashtra,1,3,124
+26/03/20,Manipur,0,0,1
+26/03/20,Mizoram,0,0,1
+26/03/20,Odisha,0,0,2
+26/03/20,Puducherry,0,0,1
+26/03/20,Punjab,0,1,33
+26/03/20,Rajasthan,3,0,41
+26/03/20,Tamil Nadu,1,1,26
+26/03/20,Telengana,1,0,44
+26/03/20,Uttarakhand,0,0,5
+26/03/20,Uttar Pradesh,11,0,41
+26/03/20,West Bengal,0,1,10
+27/03/20,Andaman and Nicobar Islands,0,0,1
+27/03/20,Andhra Pradesh,1,0,12
+27/03/20,Bihar,0,1,6
+27/03/20,Chandigarh,0,0,7
+27/03/20,Chhattisgarh,0,0,6
+27/03/20,Delhi,6,1,36
+27/03/20,Goa,0,0,3
+27/03/20,Gujarat,0,3,43
+27/03/20,Haryana,11,0,30
+27/03/20,Himachal Pradesh,0,1,3
+27/03/20,Jammu and Kashmir,1,1,13
+27/03/20,Karnataka,3,2,55
+27/03/20,Kerala,11,0,137
+27/03/20,Ladakh,3,0,13
+27/03/20,Madhya Pradesh,0,1,20
+27/03/20,Maharashtra,15,4,130
+27/03/20,Manipur,0,0,1
+27/03/20,Mizoram,0,0,1
+27/03/20,Odisha,0,0,2
+27/03/20,Puducherry,0,0,1
+27/03/20,Punjab,0,1,33
+27/03/20,Rajasthan,3,0,41
+27/03/20,Tamil Nadu,1,1,29
+27/03/20,Telengana,1,0,45
+27/03/20,Uttarakhand,0,0,5
+27/03/20,Uttar Pradesh,11,0,41
+27/03/20,West Bengal,0,1,10
+28/03/20,Andhra Pradesh,1,0,14
+28/03/20,Andaman and Nicobar Islands,0,0,6
+28/03/20,Bihar,0,1,9
+28/03/20,Chandigarh,0,0,8
+28/03/20,Chhattisgarh,0,0,6
+28/03/20,Delhi,6,1,39
+28/03/20,Goa,0,0,3
+28/03/20,Gujarat,0,3,45
+28/03/20,Haryana,12,0,33
+28/03/20,Himachal Pradesh,0,1,3
+28/03/20,Jammu and Kashmir,1,1,20
+28/03/20,Karnataka,3,2,55
+28/03/20,Kerala,11,0,176
+28/03/20,Ladakh,3,0,13
+28/03/20,Madhya Pradesh,0,2,30
+28/03/20,Maharashtra,25,5,180
+28/03/20,Manipur,0,0,1
+28/03/20,Mizoram,0,0,1
+28/03/20,Odisha,0,0,3
+28/03/20,Puducherry,0,0,1
+28/03/20,Punjab,1,1,38
+28/03/20,Rajasthan,3,0,54
+28/03/20,Tamil Nadu,2,1,40
+28/03/20,Telengana,1,0,56
+28/03/20,Uttarakhand,0,0,5
+28/03/20,Uttar Pradesh,11,0,55
+28/03/20,West Bengal,0,1,15
+29/03/20,Andhra Pradesh,1,0,19
+29/03/20,Andaman and Nicobar Islands,0,0,9
+29/03/20,Bihar,0,1,11
+29/03/20,Chandigarh,0,0,8
+29/03/20,Chhattisgarh,0,0,7
+29/03/20,Delhi,6,2,49
+29/03/20,Goa,0,0,5
+29/03/20,Gujarat,1,5,58
+29/03/20,Haryana,17,0,33
+29/03/20,Himachal Pradesh,0,1,3
+29/03/20,Jammu and Kashmir,1,2,31
+29/03/20,Karnataka,5,3,76
+29/03/20,Kerala,15,1,182
+29/03/20,Ladakh,3,0,13
+29/03/20,Madhya Pradesh,0,2,30
+29/03/20,Maharashtra,25,6,186
+29/03/20,Manipur,0,0,1
+29/03/20,Mizoram,0,0,1
+29/03/20,Odisha,0,0,3
+29/03/20,Puducherry,0,0,1
+29/03/20,Punjab,1,1,38
+29/03/20,Rajasthan,3,0,55
+29/03/20,Tamil Nadu,4,1,49
+29/03/20,Telengana,1,1,66
+29/03/20,Uttarakhand,2,0,7
+29/03/20,Uttar Pradesh,11,0,65
+29/03/20,West Bengal,0,1,18
+30/03/20,Andhra Pradesh,1,0,23
+30/03/20,Andaman and Nicobar Islands,0,0,9
+30/03/20,Bihar,0,1,15
+30/03/20,Chandigarh,0,0,8
+30/03/20,Chhattisgarh,0,0,7
+30/03/20,Delhi,6,2,87
+30/03/20,Goa,0,0,5
+30/03/20,Gujarat,1,6,69
+30/03/20,Haryana,18,0,36
+30/03/20,Himachal Pradesh,0,1,3
+30/03/20,Jammu and Kashmir,2,2,48
+30/03/20,Karnataka,5,3,83
+30/03/20,Kerala,19,1,202
+30/03/20,Ladakh,3,0,13
+30/03/20,Madhya Pradesh,0,3,47
+30/03/20,Maharashtra,25,8,198
+30/03/20,Manipur,0,0,1
+30/03/20,Mizoram,0,0,1
+30/03/20,Odisha,0,0,3
+30/03/20,Puducherry,0,0,1
+30/03/20,Punjab,1,1,38
+30/03/20,Rajasthan,3,0,59
+30/03/20,Tamil Nadu,4,1,67
+30/03/20,Telengana,1,1,71
+30/03/20,Uttarakhand,2,0,7
+30/03/20,Uttar Pradesh,11,0,82
+30/03/20,West Bengal,0,1,22
+30/03/20,Unassigned,0,0,46
+31/03/20,Andhra Pradesh,1,0,40
+31/03/20,Andaman and Nicobar Islands,0,0,10
+31/03/20,Bihar,0,1,15
+31/03/20,Chandigarh,0,0,13
+31/03/20,Chhattisgarh,0,0,8
+31/03/20,Delhi,6,2,97
+31/03/20,Goa,0,0,5
+31/03/20,Gujarat,3,6,73
+31/03/20,Haryana,21,0,40
+31/03/20,Himachal Pradesh,0,1,3
+31/03/20,Jammu and Kashmir,2,2,54
+31/03/20,Karnataka,5,3,83
+31/03/20,Kerala,19,1,234
+31/03/20,Ladakh,3,0,13
+31/03/20,Madhya Pradesh,0,3,47
+31/03/20,Maharashtra,39,9,216
+31/03/20,Manipur,0,0,1
+31/03/20,Mizoram,0,0,1
+31/03/20,Odisha,0,0,3
+31/03/20,Puducherry,0,0,1
+31/03/20,Punjab,1,3,41
+31/03/20,Rajasthan,3,0,74
+31/03/20,Tamil Nadu,4,1,74
+31/03/20,Telengana,1,1,79
+31/03/20,Uttarakhand,2,0,7
+31/03/20,Uttar Pradesh,14,0,101
+31/03/20,West Bengal,0,2,26
+31/03/20,Unassigned,0,0,38
+01/04/20,Andhra Pradesh,1,0,83
+01/04/20,Andaman and Nicobar Islands,0,0,10
+01/04/20,Assam,0,0,1
+01/04/20,Bihar,0,1,23
+01/04/20,Chandigarh,0,0,16
+01/04/20,Chhattisgarh,2,0,9
+01/04/20,Delhi,6,2,152
+01/04/20,Goa,0,0,5
+01/04/20,Gujarat,5,6,82
+01/04/20,Haryana,21,0,43
+01/04/20,Himachal Pradesh,0,1,3
+01/04/20,Jammu and Kashmir,2,2,62
+01/04/20,Jharkhand,0,0,1
+01/04/20,Karnataka,8,3,101
+01/04/20,Kerala,23,2,241
+01/04/20,Ladakh,3,0,13
+01/04/20,Madhya Pradesh,0,3,66
+01/04/20,Maharashtra,39,9,302
+01/04/20,Manipur,0,0,1
+01/04/20,Mizoram,0,0,1
+01/04/20,Odisha,0,0,4
+01/04/20,Puducherry,1,0,3
+01/04/20,Punjab,1,3,42
+01/04/20,Rajasthan,3,0,93
+01/04/20,Tamil Nadu,6,1,234
+01/04/20,Telengana,1,3,96
+01/04/20,Uttarakhand,2,0,7
+01/04/20,Uttar Pradesh,14,2,103
+01/04/20,West Bengal,6,3,37
+02/04/20,Andhra Pradesh,1,1,86
+02/04/20,Andaman and Nicobar Islands,0,0,10
+02/04/20,Assam,0,0,5
+02/04/20,Bihar,0,1,24
+02/04/20,Chandigarh,0,0,16
+02/04/20,Chhattisgarh,2,0,9
+02/04/20,Delhi,8,4,219
+02/04/20,Goa,0,0,5
+02/04/20,Gujarat,8,7,87
+02/04/20,Haryana,21,0,43
+02/04/20,Himachal Pradesh,1,1,3
+02/04/20,Jammu and Kashmir,2,2,62
+02/04/20,Jharkhand,0,0,1
+02/04/20,Karnataka,9,3,110
+02/04/20,Kerala,25,2,265
+02/04/20,Ladakh,3,0,13
+02/04/20,Madhya Pradesh,0,6,99
+02/04/20,Maharashtra,42,13,335
+02/04/20,Manipur,0,0,1
+02/04/20,Mizoram,0,0,1
+02/04/20,Odisha,0,0,4
+02/04/20,Puducherry,1,0,3
+02/04/20,Punjab,1,4,46
+02/04/20,Rajasthan,3,0,108
+02/04/20,Tamil Nadu,6,1,234
+02/04/20,Telengana,1,3,107
+02/04/20,Uttarakhand,2,0,7
+02/04/20,Uttar Pradesh,14,2,113
+02/04/20,West Bengal,6,3,53
+03/04/20,Andhra Pradesh,1,1,132
+03/04/20,Andaman and Nicobar Islands,0,0,10
+03/04/20,Arunachal Pradesh,0,0,1
+03/04/20,Assam,0,0,16
+03/04/20,Bihar,0,1,29
+03/04/20,Chandigarh,0,0,18
+03/04/20,Chhattisgarh,3,0,9
+03/04/20,Delhi,8,4,219
+03/04/20,Goa,0,0,6
+03/04/20,Gujarat,10,8,95
+03/04/20,Haryana,24,0,49
+03/04/20,Himachal Pradesh,1,1,6
+03/04/20,Jammu and Kashmir,3,2,75
+03/04/20,Jharkhand,0,0,2
+03/04/20,Karnataka,10,3,124
+03/04/20,Kerala,27,2,286
+03/04/20,Ladakh,3,0,14
+03/04/20,Madhya Pradesh,0,6,104
+03/04/20,Maharashtra,42,16,335
+03/04/20,Manipur,0,0,2
+03/04/20,Mizoram,0,0,1
+03/04/20,Odisha,0,0,5
+03/04/20,Puducherry,1,0,5
+03/04/20,Punjab,1,5,48
+03/04/20,Rajasthan,3,0,167
+03/04/20,Tamil Nadu,6,1,309
+03/04/20,Telengana,1,7,158
+03/04/20,Uttarakhand,2,0,10
+03/04/20,Uttar Pradesh,14,2,172
+03/04/20,West Bengal,3,3,63
+03/04/20,Unassigned,0,0,77
+04/04/20,Andhra Pradesh,1,1,161
+04/04/20,Andaman and Nicobar Islands,0,0,10
+04/04/20,Arunachal Pradesh,0,0,1
+04/04/20,Assam,0,0,24
+04/04/20,Bihar,0,1,30
+04/04/20,Chandigarh,0,0,18
+04/04/20,Chhattisgarh,3,0,9
+04/04/20,Delhi,15,6,445
+04/04/20,Goa,0,0,7
+04/04/20,Gujarat,14,10,105
+04/04/20,Haryana,24,0,49
+04/04/20,Himachal Pradesh,1,1,6
+04/04/20,Jammu and Kashmir,3,2,75
+04/04/20,Jharkhand,0,0,2
+04/04/20,Karnataka,12,3,128
+04/04/20,Kerala,41,2,295
+04/04/20,Ladakh,3,0,14
+04/04/20,Madhya Pradesh,0,6,104
+04/04/20,Maharashtra,42,24,490
+04/04/20,Manipur,0,0,2
+04/04/20,Mizoram,0,0,1
+04/04/20,Odisha,0,0,5
+04/04/20,Puducherry,1,0,5
+04/04/20,Punjab,1,5,57
+04/04/20,Rajasthan,21,0,200
+04/04/20,Tamil Nadu,6,2,411
+04/04/20,Telengana,1,7,159
+04/04/20,Uttarakhand,2,0,16
+04/04/20,Uttar Pradesh,19,2,174
+04/04/20,West Bengal,3,3,69
+05/04/20,Andhra Pradesh,1,1,190
+05/04/20,Andaman and Nicobar Islands,0,0,10
+05/04/20,Arunachal Pradesh,0,0,1
+05/04/20,Assam,0,0,26
+05/04/20,Bihar,0,1,30
+05/04/20,Chandigarh,0,0,18
+05/04/20,Chhattisgarh,3,0,9
+05/04/20,Delhi,18,7,503
+05/04/20,Goa,0,0,7
+05/04/20,Gujarat,18,11,122
+05/04/20,Haryana,25,1,59
+05/04/20,Himachal Pradesh,1,1,6
+05/04/20,Jammu and Kashmir,4,2,106
+05/04/20,Jharkhand,0,0,3
+05/04/20,Karnataka,12,4,144
+05/04/20,Kerala,49,2,306
+05/04/20,Ladakh,10,0,14
+05/04/20,Madhya Pradesh,0,9,165
+05/04/20,Maharashtra,42,24,490
+05/04/20,Manipur,0,0,2
+05/04/20,Mizoram,0,0,1
+05/04/20,Odisha,0,0,20
+05/04/20,Puducherry,1,0,5
+05/04/20,Punjab,1,5,57
+05/04/20,Rajasthan,21,0,200
+05/04/20,Tamil Nadu,6,3,485
+05/04/20,Telengana,32,7,269
+05/04/20,Uttarakhand,2,0,22
+05/04/20,Uttar Pradesh,19,2,227
+05/04/20,West Bengal,10,3,80
+06/04/20,Andhra Pradesh,1,3,226
+06/04/20,Andaman and Nicobar Islands,0,0,10
+06/04/20,Arunachal Pradesh,0,0,1
+06/04/20,Assam,0,0,26
+06/04/20,Bihar,0,1,32
+06/04/20,Chandigarh,0,0,18
+06/04/20,Chhattisgarh,8,0,10
+06/04/20,Delhi,19,7,523
+06/04/20,Goa,0,0,7
+06/04/20,Gujarat,22,12,144
+06/04/20,Haryana,25,1,84
+06/04/20,Himachal Pradesh,2,1,13
+06/04/20,Jammu and Kashmir,4,2,109
+06/04/20,Jharkhand,0,0,4
+06/04/20,Karnataka,12,4,151
+06/04/20,Kerala,55,2,314
+06/04/20,Ladakh,10,0,14
+06/04/20,Madhya Pradesh,0,9,165
+06/04/20,Maharashtra,56,45,748
+06/04/20,Manipur,0,0,2
+06/04/20,Mizoram,0,0,1
+06/04/20,Odisha,2,0,21
+06/04/20,Puducherry,1,0,5
+06/04/20,Punjab,4,6,76
+06/04/20,Rajasthan,21,0,274
+06/04/20,Tamil Nadu,8,5,571
+06/04/20,Telengana,34,7,321
+06/04/20,Uttarakhand,4,0,26
+06/04/20,Uttar Pradesh,21,3,305
+06/04/20,West Bengal,10,3,80
+07/04/20,Andhra Pradesh,1,3,266
+07/04/20,Andaman and Nicobar Islands,0,0,10
+07/04/20,Arunachal Pradesh,0,0,1
+07/04/20,Assam,0,0,26
+07/04/20,Bihar,0,1,32
+07/04/20,Chandigarh,7,0,18
+07/04/20,Chhattisgarh,9,0,10
+07/04/20,Delhi,21,7,576
+07/04/20,Goa,0,0,7
+07/04/20,Gujarat,25,13,165
+07/04/20,Haryana,25,1,90
+07/04/20,Himachal Pradesh,2,1,13
+07/04/20,Jammu and Kashmir,4,2,116
+07/04/20,Jharkhand,0,0,4
+07/04/20,Karnataka,25,4,175
+07/04/20,Kerala,58,2,327
+07/04/20,Ladakh,10,0,14
+07/04/20,Madhya Pradesh,0,13,229
+07/04/20,Maharashtra,56,48,868
+07/04/20,Manipur,0,0,2
+07/04/20,Mizoram,0,0,1
+07/04/20,Odisha,2,1,42
+07/04/20,Puducherry,1,0,5
+07/04/20,Punjab,4,7,91
+07/04/20,Rajasthan,21,3,288
+07/04/20,Tamil Nadu,8,5,621
+07/04/20,Telengana,35,7,364
+07/04/20,Tripura,0,0,1
+07/04/20,Uttarakhand,5,0,31
+07/04/20,Uttar Pradesh,21,3,305
+07/04/20,West Bengal,13,3,91
+08/04/20,Andhra Pradesh,5,4,305
+08/04/20,Andaman and Nicobar Islands,0,0,10
+08/04/20,Arunachal Pradesh,0,0,1
+08/04/20,Assam,0,0,27
+08/04/20,Bihar,0,1,38
+08/04/20,Chandigarh,7,0,18
+08/04/20,Chhattisgarh,9,0,10
+08/04/20,Delhi,21,9,576
+08/04/20,Goa,0,0,7
+08/04/20,Gujarat,25,13,165
+08/04/20,Haryana,28,3,147
+08/04/20,Himachal Pradesh,2,1,18
+08/04/20,Jammu and Kashmir,4,2,116
+08/04/20,Jharkhand,0,0,4
+08/04/20,Karnataka,25,4,175
+08/04/20,Kerala,70,2,336
+08/04/20,Ladakh,10,0,14
+08/04/20,Madhya Pradesh,0,13,229
+08/04/20,Maharashtra,79,64,1018
+08/04/20,Manipur,0,0,2
+08/04/20,Mizoram,0,0,1
+08/04/20,Odisha,2,1,42
+08/04/20,Puducherry,1,0,5
+08/04/20,Punjab,4,7,91
+08/04/20,Rajasthan,21,3,328
+08/04/20,Tamil Nadu,19,7,690
+08/04/20,Telengana,35,7,427
+08/04/20,Tripura,0,0,1
+08/04/20,Uttarakhand,5,0,31
+08/04/20,Uttar Pradesh,26,3,343
+08/04/20,West Bengal,13,5,99
+09/04/20,Andhra Pradesh,6,4,348
+09/04/20,Andaman and Nicobar Islands,0,0,11
+09/04/20,Arunachal Pradesh,0,0,1
+09/04/20,Assam,0,0,28
+09/04/20,Bihar,0,1,39
+09/04/20,Chandigarh,7,0,18
+09/04/20,Chhattisgarh,9,0,10
+09/04/20,Delhi,21,9,669
+09/04/20,Goa,0,0,7
+09/04/20,Gujarat,25,16,179
+09/04/20,Haryana,29,3,169
+09/04/20,Himachal Pradesh,2,1,18
+09/04/20,Jammu and Kashmir,4,4,158
+09/04/20,Jharkhand,0,0,13
+09/04/20,Karnataka,28,5,181
+09/04/20,Kerala,83,2,345
+09/04/20,Ladakh,10,0,14
+09/04/20,Madhya Pradesh,0,16,259
+09/04/20,Maharashtra,117,72,1135
+09/04/20,Manipur,1,0,2
+09/04/20,Mizoram,0,0,1
+09/04/20,Odisha,2,1,42
+09/04/20,Puducherry,1,0,5
+09/04/20,Punjab,4,8,101
+09/04/20,Rajasthan,21,3,383
+09/04/20,Tamil Nadu,21,8,738
+09/04/20,Telengana,35,7,442
+09/04/20,Tripura,0,0,1
+09/04/20,Uttarakhand,5,0,35
+09/04/20,Uttar Pradesh,31,4,410
+09/04/20,West Bengal,16,5,103
+10/04/20,Andhra Pradesh,7,6,363
+10/04/20,Andaman and Nicobar Islands,0,0,11
+10/04/20,Arunachal Pradesh,0,0,1
+10/04/20,Assam,0,0,29
+10/04/20,Bihar,0,1,60
+10/04/20,Chandigarh,7,0,18
+10/04/20,Chhattisgarh,9,0,10
+10/04/20,Delhi,25,13,898
+10/04/20,Goa,1,0,7
+10/04/20,Gujarat,26,17,241
+10/04/20,Haryana,29,3,169
+10/04/20,Himachal Pradesh,6,1,28
+10/04/20,Jammu and Kashmir,6,4,184
+10/04/20,Jharkhand,0,1,13
+10/04/20,Karnataka,30,6,197
+10/04/20,Kerala,96,2,357
+10/04/20,Ladakh,10,0,15
+10/04/20,Madhya Pradesh,0,16,259
+10/04/20,Maharashtra,125,97,1364
+10/04/20,Manipur,1,0,2
+10/04/20,Mizoram,0,0,1
+10/04/20,Odisha,2,1,44
+10/04/20,Puducherry,1,0,5
+10/04/20,Punjab,5,11,132
+10/04/20,Rajasthan,21,3,463
+10/04/20,Tamil Nadu,21,8,834
+10/04/20,Telengana,35,7,473
+10/04/20,Tripura,0,0,1
+10/04/20,Uttarakhand,5,0,35
+10/04/20,Uttar Pradesh,32,4,431
+10/04/20,West Bengal,16,5,116
+11/04/20,Andhra Pradesh,11,6,381
+11/04/20,Andaman and Nicobar Islands,0,0,11
+11/04/20,Arunachal Pradesh,0,0,1
+11/04/20,Assam,0,1,29
+11/04/20,Bihar,0,1,60
+11/04/20,Chandigarh,7,0,18
+11/04/20,Chhattisgarh,9,0,18
+11/04/20,Delhi,25,14,903
+11/04/20,Goa,1,0,7
+11/04/20,Gujarat,31,19,308
+11/04/20,Haryana,29,3,177
+11/04/20,Himachal Pradesh,6,1,28
+11/04/20,Jammu and Kashmir,6,4,207
+11/04/20,Jharkhand,0,1,17
+11/04/20,Karnataka,37,6,214
+11/04/20,Kerala,123,2,364
+11/04/20,Ladakh,10,0,15
+11/04/20,Madhya Pradesh,0,33,443
+11/04/20,Maharashtra,188,110,1574
+11/04/20,Manipur,1,0,2
+11/04/20,Mizoram,0,0,1
+11/04/20,Odisha,2,1,48
+11/04/20,Puducherry,1,0,7
+11/04/20,Punjab,5,11,132
+11/04/20,Rajasthan,21,3,553
+11/04/20,Tamil Nadu,44,8,911
+11/04/20,Telengana,43,9,504
+11/04/20,Tripura,0,0,2
+11/04/20,Uttarakhand,5,0,35
+11/04/20,Uttar Pradesh,32,4,433
+11/04/20,West Bengal,16,5,126
+12/04/20,Andhra Pradesh,11,6,381
+12/04/20,Andaman and Nicobar Islands,10,0,11
+12/04/20,Arunachal Pradesh,0,0,1
+12/04/20,Assam,0,1,29
+12/04/20,Bihar,19,1,64
+12/04/20,Chandigarh,7,0,19
+12/04/20,Chhattisgarh,10,0,25
+12/04/20,Delhi,25,19,1069
+12/04/20,Goa,5,0,7
+12/04/20,Gujarat,44,22,432
+12/04/20,Haryana,29,3,185
+12/04/20,Himachal Pradesh,6,1,32
+12/04/20,Jammu and Kashmir,6,4,224
+12/04/20,Jharkhand,0,1,17
+12/04/20,Karnataka,37,6,226
+12/04/20,Kerala,142,2,374
+12/04/20,Ladakh,10,0,15
+12/04/20,Madhya Pradesh,0,36,564
+12/04/20,Maharashtra,208,127,1761
+12/04/20,Manipur,1,0,2
+12/04/20,Mizoram,0,0,1
+12/04/20,Odisha,12,1,54
+12/04/20,Puducherry,1,0,7
+12/04/20,Punjab,5,11,151
+12/04/20,Rajasthan,21,3,700
+12/04/20,Tamil Nadu,44,10,969
+12/04/20,Telengana,43,9,504
+12/04/20,Tripura,0,0,2
+12/04/20,Uttarakhand,5,0,35
+12/04/20,Uttar Pradesh,45,5,452
+12/04/20,West Bengal,19,5,134
+13/04/20,Andhra Pradesh,11,7,432
+13/04/20,Andaman and Nicobar Islands,10,0,11
+13/04/20,Arunachal Pradesh,0,0,1
+13/04/20,Assam,0,1,31
+13/04/20,Bihar,26,1,64
+13/04/20,Chandigarh,7,0,21
+13/04/20,Chhattisgarh,10,0,31
+13/04/20,Delhi,27,24,1154
+13/04/20,Goa,5,0,7
+13/04/20,Gujarat,47,26,539
+13/04/20,Haryana,29,3,185
+13/04/20,Himachal Pradesh,13,1,32
+13/04/20,Jammu and Kashmir,6,4,245
+13/04/20,Jharkhand,0,2,19
+13/04/20,Karnataka,59,6,247
+13/04/20,Kerala,179,3,376
+13/04/20,Ladakh,10,0,15
+13/04/20,Madhya Pradesh,44,43,604
+13/04/20,Maharashtra,217,149,1985
+13/04/20,Manipur,1,0,2
+13/04/20,Mizoram,0,0,1
+13/04/20,Nagaland,0,0,1
+13/04/20,Odisha,12,1,54
+13/04/20,Puducherry,1,0,7
+13/04/20,Punjab,14,11,167
+13/04/20,Rajasthan,21,3,812
+13/04/20,Tamil Nadu,50,11,1075
+13/04/20,Telengana,100,16,562
+13/04/20,Tripura,0,0,2
+13/04/20,Uttarakhand,5,0,35
+13/04/20,Uttar Pradesh,47,5,483
+13/04/20,West Bengal,29,7,152
+14/04/20,Andhra Pradesh,14,9,473
+14/04/20,Andaman and Nicobar Islands,10,0,11
+14/04/20,Arunachal Pradesh,0,0,1
+14/04/20,Assam,0,1,31
+14/04/20,Bihar,26,1,66
+14/04/20,Chandigarh,7,0,21
+14/04/20,Chhattisgarh,10,0,31
+14/04/20,Delhi,30,28,1510
+14/04/20,Goa,5,0,7
+14/04/20,Gujarat,55,26,617
+14/04/20,Haryana,34,3,199
+14/04/20,Himachal Pradesh,13,1,32
+14/04/20,Jammu and Kashmir,16,4,270
+14/04/20,Jharkhand,0,2,24
+14/04/20,Karnataka,65,9,258
+14/04/20,Kerala,198,3,379
+14/04/20,Ladakh,10,0,15
+14/04/20,Madhya Pradesh,51,50,730
+14/04/20,Maharashtra,229,160,2337
+14/04/20,Manipur,1,0,2
+14/04/20,Meghalaya,0,0,1
+14/04/20,Mizoram,0,0,1
+14/04/20,Nagaland,0,0,1
+14/04/20,Odisha,18,1,55
+14/04/20,Puducherry,1,0,7
+14/04/20,Punjab,14,12,176
+14/04/20,Rajasthan,133,3,879
+14/04/20,Tamil Nadu,58,11,1173
+14/04/20,Telengana,100,17,624
+14/04/20,Tripura,0,0,2
+14/04/20,Uttarakhand,7,0,35
+14/04/20,Uttar Pradesh,49,5,657
+14/04/20,West Bengal,36,7,190
